@@ -1,6 +1,5 @@
 ## Messenger-clone
 This project is a simple React messaging system with firebase.<br>
-Demo: https://assimmht.github.io/messenger-clone/
 
 ## Available Scripts
 
